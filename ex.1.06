@@ -1,0 +1,6 @@
+senha = input("Digite a senha: ");
+
+while senha != "Lussmin17.":
+    input("Senha incorreta, digite novamente!")
+
+print("Senha correta!")
