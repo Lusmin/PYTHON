@@ -1,0 +1,12 @@
+num1 = int(input("Digite o primeiro nº: " + "\n"));
+num2 = int(input("Digite o segundo nº: " + "\n"));
+
+soma = num1 + num2;
+sub = num1 - num2;
+mult = num1 * num2;
+div = num1 / num2;
+
+print("\n"+"SOMA :" , soma);
+print("SUBTRAÇÃO :" , sub);
+print("MULTIPLICAÇÃO :" , mult);
+print("DIVISÃO :" , div);
