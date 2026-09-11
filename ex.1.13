@@ -1,0 +1,10 @@
+numero = int(input("Digite um número inteiro: "))
+
+fatorial = 1
+cont = 1
+
+while cont <= numero:
+    fatorial = fatorial * cont
+    cont = cont + 1
+    
+print("fatorialorial: " , fatorial)
